@@ -41,7 +41,7 @@
  }
 
  main{
-    max-width: 1000px;
+    max-width: 1140px;
     margin: 0 auto;
  }
 
@@ -79,7 +79,7 @@
   }
 
   .navbar, .banner{
-    max-width: 1000px;
+    max-width: 1140px;
     margin: 0 auto;
   }
 
@@ -104,7 +104,7 @@
 
   .teams{
     align-items: center;
-    gap: 24px;
+    gap: 40px;
   }
   .team-img-container{
     display: grid;
@@ -130,8 +130,8 @@
   /* feature section */
 
   .features{
-    width: 1000px;
-     gap: 40px;
+    width: 1140px;
+    gap: 140px;
   }
   
   .feature-content{
@@ -141,7 +141,7 @@
 
   .feature-section-title{
     border-left: 5px solid #FF900E;
-    padding-left: 20px;
+    padding-left: 10px;
   }
 
   .feature-card{
@@ -172,11 +172,13 @@
   }
   .featured-architect{
     height: 1059px;
+    width: 600px;
   }
   
   
   .featured-architect img{
-        width: 400px;
+    width: 100%;
+    height: 90%;
   }
 
 /* some facts */
